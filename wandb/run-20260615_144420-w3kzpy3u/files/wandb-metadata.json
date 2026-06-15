@@ -1,0 +1,40 @@
+{
+  "os": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.13",
+  "startedAt": "2026-06-15T14:44:20.195736Z",
+  "program": "facial_expression.ipynb",
+  "codePath": "facial_expression.ipynb",
+  "git": {
+    "remote": "https://github.com/tamari1990/facial-expression-recognition.git",
+    "commit": "3cb87c5a011268779344ee5108bd30ecd332dc90"
+  },
+  "email": "tgela23@freeuni.edu.ge",
+  "root": "/content/facial-expression-recognition",
+  "host": "c3ce8598d247",
+  "executable": "/usr/bin/python3",
+  "colab": "https://colab.research.google.com/notebook#fileId=1tFhBxSlnYgPzNO06VhXnPy-D9pvTUCMz",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "120942624768",
+      "used": "51304304640"
+    }
+  },
+  "memory": {
+    "total": "13605830656"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing",
+      "uuid": "GPU-e4f16b25-d1c0-0e0b-8884-f1e88fbf7dd5"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "bmsiskx86nvzpa70ald3ayci8j9xs4za"
+}
